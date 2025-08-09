@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-.......
-=======
 # Road Traffic Incident Management System (RTIMS)
 
 A comprehensive web-based system for managing road traffic incidents in Tanzania.
@@ -111,4 +108,3 @@ This is a final year project for educational purposes. Feel free to fork and enh
 ## License
 
 Educational use only. Not for commercial deployment without proper security audit.
->>>>>>> 6ecc973 (Final version)
